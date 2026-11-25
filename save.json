@@ -1,0 +1,45 @@
+{
+  "unlocked_levels": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    13
+  ],
+  "completed_levels": {
+    "1": {
+      "stars": 3,
+      "best_commands": 4
+    },
+    "2": {
+      "stars": 3,
+      "best_commands": 7
+    },
+    "3": {
+      "stars": 3,
+      "best_commands": 4
+    },
+    "4": {
+      "stars": 3,
+      "best_commands": 6
+    },
+    "5": {
+      "stars": 2,
+      "best_commands": 9
+    },
+    "12": {
+      "stars": 1,
+      "best_commands": 10
+    }
+  },
+  "sound_enabled": true,
+  "boss_stages": {
+    "1": {
+      "slain": true,
+      "one_shot": true,
+      "attempts": 1
+    }
+  }
+}
